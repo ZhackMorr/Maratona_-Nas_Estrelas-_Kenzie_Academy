@@ -1,51 +1,20 @@
-# Maratona-nas-estrelas
+# Maratona Nas Estrelas
 
 Projeto desenvolvido para o evento Maratona Kenzie dia 06/05/2023.
 
+Na frente de cada card contem o nome e um local para colocar a foto do personagem referenciado, ao clicar em cada um dos cards é possivel ver o ano de nascimento e o planeta.
+
+Nesse projeto vi conceitos de HTML, CSS e principalmente JavaScript e API´s algo que eu não tive contato até agora, nunca tinha feito um projeto com uma API, já conhecia o termo mas nunca tinha colocado a mão na massa, é bem diferente do que estou acostumado, porém me ajudou muito em conceitos como "functions" dentro do JavaScript.
+
+Este projeto referencia o universo e os personagens de Star Wars.
+
 ## Ferramentas
 
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+API utilizada: https://swapi.dev/documentation#planets
 
-## O projeto
 
-### Estrutura de arquivos
 
-- README.md
-- index.html
-- /assets
-  - /img
-  - /styles
-    - style.css
-    - global.css
-  - /script
-    - script.js
-- /explicacao
-  - explicacao.css
-  - explicacao.html
-  - explicacao.js
-  - teste.html
-
-## Layout
-
-- [Layout Maratona nas Estrelas](https://www.figma.com/file/8czyicdQ7j0kCJXc3G06lj/Evento-Star-Wars?type=design&node-id=34-92&t=nKQPR7dFp7o6m6b2-0)
-
-## LinkedIn das Instrutoras
+## LinkedIn dos Instrutores
 
 - [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
 - [Rafael Bertoldo](https://www.linkedin.com/in/rafaeljbertoldo/)
-
-## Aulas para estudo
-
-- [Primeiros passos no HTML](https://www.youtube.com/watch?v=KoqDxb7ziA4)
-- [Primeiros passos no CSS](https://youtu.be/XautVe2dPcg)
-
-## Referências
-
-- [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp)
-- [W3Schools referência CSS](https://www.w3schools.com/cssref/default.asp)
-- [Google Fonts](https://fonts.google.com/)
-- [Coolors](https://coolors.co/palettes/trending)
-- [Paletton](https://paletton.com/)
-- [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp)
-- [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
